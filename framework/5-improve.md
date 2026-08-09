@@ -1,4 +1,4 @@
-# Improve — is it working, and when to stop
+# Improve — is it working, and what the evidence says
 
 _Reading the evidence yourself, rather than the summary someone prepared for you._
 

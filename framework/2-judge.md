@@ -1,6 +1,6 @@
 # Judge — AI, plain automation, or neither
 
-_The most valuable judgement in enablement, and the one no vendor will teach you._
+_The most valuable judgement in adoption, and the one no vendor will teach you._
 
 Three answers are available, and only one of them is the answer a vendor is incentivised to give you.
 

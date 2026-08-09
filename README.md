@@ -1,6 +1,6 @@
-# The AI Enablement Framework
+# The AI Judgement Framework for Enterprise Adoption
 
-**Five judgements. Three altitudes. Decide well about AI.**
+**Five judgements for adopting AI in an enterprise. Three altitudes. Decide well about AI.**
 
 Most AI programmes do not fail on the technology. They fail because nobody could say whether the work should have been automated at all, what "correct" meant, or who was accountable when it was wrong.
 
@@ -14,11 +14,11 @@ This is the framework we use to answer those questions — distilled from produc
 
 | | Judgement | The question |
 |---|---|---|
-| 1 | **[Spot](framework/1-spot.md)** | Where does AI belong in this function at all? |
+| 1 | **[Spot](framework/1-spot.md)** | Where does AI belong in this work at all? |
 | 2 | **[Judge](framework/2-judge.md)** | AI, plain automation, or neither — and is it worth it? |
 | 3 | **[Specify](framework/3-specify.md)** | What does "correct" mean here, and what must never happen? |
-| 4 | **[Govern](framework/4-govern.md)** | What runs on its own, and what waits for a person? |
-| 5 | **[Improve](framework/5-improve.md)** | Is it working, and when should we stop? |
+| 4 | **[Govern](framework/4-govern.md)** | What controls does this need, and who answers for it? |
+| 5 | **[Improve](framework/5-improve.md)** | Is it working, and what is the evidence telling us? |
 
 They are ordered because each depends on the last. You cannot specify what you have not judged worth doing, and you cannot govern what you have not specified.
 
@@ -32,7 +32,7 @@ The same five judgements are answered by different people at different heights, 
 | **Spot** | Which functions are candidates at all | Which of my recurring work | Which behaviours a system must support |
 | **Judge** | What each option costs, and what it risks | Whether it is worth it here | Whether the architecture earns its complexity |
 | **Specify** | What standard we hold suppliers and teams to | What "correct" means in this process | Acceptance criteria and refusals, in code |
-| **Govern** | What governance posture we require | Where the human gate sits, and why | How the gate is implemented and audited |
+| **Govern** | What governance posture we require, and who is accountable | What controls the process needs, and who answers for it | How the controls are implemented — gate, audit, access, cost |
 | **Improve** | Whether to continue, expand or stop | What the corrections are telling us | What the evidence says, in evals |
 
 **This is the part most organisations miss.** Train one group and the programme stalls: the engineers can build but cannot decide what is worth building; the business waits to be consulted; leadership signs off on things it cannot evaluate. The rows are the framework. The columns are why training one team is not enough.
@@ -52,6 +52,8 @@ Free to use, quote, adapt and build on under [CC BY 4.0](LICENSE) — attributio
 **What this repository is not.** It is the reasoning, not the practice. The exercises, templates, rubrics, and the governed sandbox where people set a threshold and live with the consequences are part of [Syntropik's enterprise programme](https://beta.syntropik.co/#programmes). Everything here is complete on its own terms; it is not a substitute for doing it.
 
 ## Contributing
+
+**Stage system.** The five judgements, their questions and their colours are governed centrally in `syntro-kernel/docs/design/system.md` § "Judgement-stage palette". Do not change a question or a hex here — change it there, then propagate.
 
 Issues and pull requests welcome — particularly:
 
