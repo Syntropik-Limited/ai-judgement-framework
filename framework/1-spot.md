@@ -24,4 +24,4 @@ The candidates worth pursuing tend to be duller: high volume, moderate stakes, r
 
 **Going further.** In the programme, people map their own function rather than read about mapping, and leave with a completed function map — volumes, checkers and candidates — that feeds every later stage. The template and the facilitation are the part that makes it real.
 
-See [the enterprise programme](https://syntropik.co.uk/framework/programme/).
+See [the enterprise programme](https://beta.syntropik.co/#programmes).

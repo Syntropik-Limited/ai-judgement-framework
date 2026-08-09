@@ -1,6 +1,6 @@
 # Judge — AI, plain automation, or neither
 
-_The most valuable judgement in adoption, and the one no vendor will teach you._
+_The most valuable judgement in enablement, and the one no vendor will teach you._
 
 Three answers are available, and only one of them is the answer a vendor is incentivised to give you.
 
@@ -24,4 +24,4 @@ A model can be impressive on a per-item basis and still fail the economics at vo
 
 **Going further.** The programme runs this as a comparison you operate yourself: the same job handled two ways, deterministic rules against a model, with cost and reliability side by side. Participants leave with a completed feasibility sheet for a real process they own, and the reasoning to defend the call.
 
-See [the enterprise programme](https://syntropik.co.uk/framework/programme/).
+See [the enterprise programme](https://beta.syntropik.co/#programmes).

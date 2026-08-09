@@ -20,4 +20,4 @@ A specification line that sounds precise but cannot be tested. "Handle correspon
 
 **Going further.** The programme takes people from a blank page to a completed one-page specification for their own process — acceptance criteria, refusals, ground truth and gate placement — reviewed against the failure modes that make specifications untestable. The review is what turns a plausible spec into a buildable one.
 
-See [the enterprise programme](https://syntropik.co.uk/framework/programme/).
+See [the enterprise programme](https://beta.syntropik.co/#programmes).

@@ -27,4 +27,4 @@ Withdrawing something that is not working is not a failure of the programme. It 
 
 **Going further.** The programme has participants close the loop themselves — approve and correct real items, then replay those corrections as evaluation cases and see them become permanent checks. Reading a live audit trail against your own decisions is the part that cannot be conveyed in writing.
 
-See [the enterprise programme](https://syntropik.co.uk/framework/programme/).
+See [the enterprise programme](https://beta.syntropik.co/#programmes).

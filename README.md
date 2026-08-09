@@ -1,4 +1,4 @@
-# The AI Adoption Framework
+# The AI Enablement Framework
 
 **Five judgements. Three altitudes. Decide well about AI.**
 
@@ -6,7 +6,7 @@ Most AI programmes do not fail on the technology. They fail because nobody could
 
 This is the framework we use to answer those questions — distilled from production deployment, including an engagement processing 15,000 documents a month under regulatory conditions. Published openly, free to use and adapt.
 
-**Read it on the web:** https://syntropik.co.uk/framework/
+**Read it on the web:** https://beta.syntropik.co/framework/
 
 ---
 
@@ -49,7 +49,7 @@ And the decisive factor was a business team who were not technical. They defined
 
 Free to use, quote, adapt and build on under [CC BY 4.0](LICENSE) — attribution appreciated, a link more so. If you adapt it for your own organisation, we would genuinely like to hear how.
 
-**What this repository is not.** It is the reasoning, not the practice. The exercises, templates, rubrics, and the governed sandbox where people set a threshold and live with the consequences are part of [Syntropik's enterprise programme](https://syntropik.co.uk/framework/programme/). Everything here is complete on its own terms; it is not a substitute for doing it.
+**What this repository is not.** It is the reasoning, not the practice. The exercises, templates, rubrics, and the governed sandbox where people set a threshold and live with the consequences are part of [Syntropik's enterprise programme](https://beta.syntropik.co/#programmes). Everything here is complete on its own terms; it is not a substitute for doing it.
 
 ## Contributing
 
@@ -61,6 +61,6 @@ Issues and pull requests welcome — particularly:
 
 ## About
 
-Built by [Syntropik](https://syntropik.co.uk), a UK company doing enterprise AI enablement — leadership briefings, business-team programmes, and hands-on engineering cohorts.
+Built by [Syntropik](https://beta.syntropik.co), a UK company doing enterprise AI enablement — leadership briefings, business-team programmes, and hands-on engineering cohorts.
 
 hello@syntropik.co.uk

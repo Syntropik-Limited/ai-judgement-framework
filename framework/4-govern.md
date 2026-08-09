@@ -24,4 +24,4 @@ It is not dramatic. Everything proceeds, the queue is empty, throughput looks ex
 
 **Going further.** The programme puts the dial in participants' hands on a live system: move the threshold, watch what auto-commits and what lands in review, then take it to zero and see exactly what an ungoverned system does. People leave with a written threshold rationale — the number, what it lets through, and the sentence they would say to an auditor.
 
-See [the enterprise programme](https://syntropik.co.uk/framework/programme/).
+See [the enterprise programme](https://beta.syntropik.co/#programmes).
