@@ -19,7 +19,7 @@ This is the loop that separates systems that improve from systems that merely pe
 
 ## Knowing when to stop
 
-The hardest and most credible judgement in the whole framework. The signals are usually visible well before anyone acts on them: review load that never falls, an error rate that plateaus above what the process can absorb, cost drift that outruns the benefit, or a workaround culture where people quietly stop trusting the output and check everything anyway.
+The hardest and most credible assessment in the whole framework. The signals are usually visible well before anyone acts on them: review load that never falls, an error rate that plateaus above what the process can absorb, cost drift that outruns the benefit, or a workaround culture where people quietly stop trusting the output and check everything anyway.
 
 Withdrawing something that is not working is not a failure of the programme. It is the programme working. An organisation that cannot stop cannot safely start.
 

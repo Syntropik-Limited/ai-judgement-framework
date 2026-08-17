@@ -18,7 +18,7 @@ Naming the checker matters for a second reason. Work of this kind does not remov
 
 ## Whether the work exists as data
 
-A process can be an excellent candidate and still be impossible to automate, because the work is not reachable. This is not a judgement — it is a precondition, and it usually belongs to IT rather than to you. But Spot is where you find out, and finding out late is what turns a six-week pilot into a six-month one.
+A process can be an excellent candidate and still be impossible to automate, because the work is not reachable. This is not a assessment — it is a precondition, and it usually belongs to IT rather than to you. But Spot is where you find out, and finding out late is what turns a six-week pilot into a six-month one.
 
 Three questions settle it. Does the work exist as data at all — paper and scans cannot be searched, counted or matched until something has turned them into readable records. Can the system reach it in practice and with permission, rather than in principle. And is what comes back good enough to work with.
 

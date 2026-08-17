@@ -1,6 +1,6 @@
-# The AI Judgement Framework for Enterprise Adoption
+# The AI Assessment Framework for Enterprise Adoption
 
-**Five judgements for adopting AI in an enterprise. Three altitudes. Decide well about AI.**
+**Five assessments for adopting AI in an enterprise. Three altitudes. Decide well about AI.**
 
 Most AI programmes do not fail on the technology. They fail because nobody could say whether the work should have been automated at all, what "correct" meant, or who was accountable when it was wrong.
 
@@ -10,9 +10,9 @@ This is the framework we use to answer those questions — distilled from produc
 
 ---
 
-## The five judgements
+## The five assessments
 
-| | Judgement | The question |
+| | Assessment | The question |
 |---|---|---|
 | 1 | **[Spot](framework/1-spot.md)** | Where does AI belong in this work at all? |
 | 2 | **[Judge](framework/2-judge.md)** | AI, plain automation, or neither — and is it worth it? |
@@ -24,7 +24,7 @@ They are ordered because each depends on the last. You cannot specify what you h
 
 ## Three altitudes
 
-The same five judgements are answered by different people at different heights, and the answers differ.
+The same five assessments are answered by different people at different heights, and the answers differ.
 
 | | Leadership & governance | Business teams | Engineers |
 |---|---|---|---|
@@ -53,7 +53,7 @@ Free to use, quote, adapt and build on under [CC BY 4.0](LICENSE) — attributio
 
 ## Contributing
 
-**Stage system.** The five judgements, their questions and their colours are governed centrally in `syntro-kernel/docs/design/system.md` § "Judgement-stage palette". Do not change a question or a hex here — change it there, then propagate.
+**Stage system.** The five assessments, their questions and their colours are governed centrally in `syntro-kernel/docs/design/system.md` § "Assessment-stage palette". Do not change a question or a hex here — change it there, then propagate.
 
 Issues and pull requests welcome — particularly:
 
