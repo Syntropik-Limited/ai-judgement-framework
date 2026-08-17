@@ -53,7 +53,7 @@ Free to use, quote, adapt and build on under [CC BY 4.0](LICENSE) — attributio
 
 ## Contributing
 
-**Stage system.** The five assessments, their questions and their colours are governed centrally in `syntro-kernel/docs/design/system.md` § "Assessment-stage palette". Do not change a question or a hex here — change it there, then propagate.
+**Stage system.** The five assessments, their questions and their colours are fixed by design — treat any change to a name, question or colour as a breaking change to the framework, not a wording tweak. Open an issue to propose one.
 
 Issues and pull requests welcome — particularly:
 
